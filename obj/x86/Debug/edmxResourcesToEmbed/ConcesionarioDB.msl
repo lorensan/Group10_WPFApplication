@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ConcesionarioModelStoreContainer" CdmEntityContainer="ConcesionarioDB">
+    <EntitySetMapping Name="Modelos">
+      <EntityTypeMapping TypeName="ConcesionarioModel.Modelos">
+        <MappingFragment StoreEntitySet="Modelos">
+          <ScalarProperty Name="CodTipo" ColumnName="CodTipo" />
+          <ScalarProperty Name="Marca" ColumnName="Marca" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="Imagen" ColumnName="Imagen" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tipos">
+      <EntityTypeMapping TypeName="ConcesionarioModel.Tipos">
+        <MappingFragment StoreEntitySet="Tipos">
+          <ScalarProperty Name="CodTipo" ColumnName="CodTipo" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

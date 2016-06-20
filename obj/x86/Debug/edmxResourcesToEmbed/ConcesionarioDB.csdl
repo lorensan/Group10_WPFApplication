@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ConcesionarioModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="ConcesionarioDB" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Modelos" EntityType="ConcesionarioModel.Modelos" />
+    <EntitySet Name="Tipos" EntityType="ConcesionarioModel.Tipos" />
+  </EntityContainer>
+  <EntityType Name="Modelos">
+    <Key>
+      <PropertyRef Name="CodTipo" />
+    </Key>
+    <Property Name="CodTipo" Type="Int32" Nullable="false" />
+    <Property Name="Marca" Type="String" MaxLength="10" Unicode="true" FixedLength="true" />
+    <Property Name="Descripcion" Type="String" MaxLength="Max" Unicode="false" FixedLength="false" />
+    <Property Name="Imagen" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Tipos">
+    <Key>
+      <PropertyRef Name="CodTipo" />
+    </Key>
+    <Property Name="CodTipo" Type="Int32" Nullable="false" />
+    <Property Name="Descripcion" Type="String" Nullable="false" MaxLength="10" Unicode="false" FixedLength="false" />
+  </EntityType>
+</Schema>
