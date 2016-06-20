@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ConcesionarioModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="ConcesionarioModelStoreContainer">
+    <EntitySet Name="Modelos" EntityType="ConcesionarioModel.Store.Modelos" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Tipos" EntityType="ConcesionarioModel.Store.Tipos" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="Modelos">
+    <Key>
+      <PropertyRef Name="CodTipo" />
+    </Key>
+    <Property Name="CodTipo" Type="int" Nullable="false" />
+    <Property Name="Marca" Type="nchar" MaxLength="10" />
+    <Property Name="Descripcion" Type="varchar(max)" />
+    <Property Name="Imagen" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="Tipos">
+    <Key>
+      <PropertyRef Name="CodTipo" />
+    </Key>
+    <Property Name="CodTipo" Type="int" Nullable="false" />
+    <Property Name="Descripcion" Type="varchar" Nullable="false" MaxLength="10" />
+  </EntityType>
+</Schema>

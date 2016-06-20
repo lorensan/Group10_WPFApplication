@@ -1,0 +1,25 @@
+C:\Users\SESA256674\Desktop\PC Trabajo\Pruebas\PruebaGrupo10_WPF\PruebaGrupo10_WPF\bin\Debug\PruebaGrupo10_WPF.exe
+C:\Users\SESA256674\Desktop\PC Trabajo\Pruebas\PruebaGrupo10_WPF\PruebaGrupo10_WPF\bin\Debug\PruebaGrupo10_WPF.pdb
+C:\Users\SESA256674\Desktop\PC Trabajo\Pruebas\PruebaGrupo10_WPF\PruebaGrupo10_WPF\obj\x86\Debug\App.g.cs
+C:\Users\SESA256674\Desktop\PC Trabajo\Pruebas\PruebaGrupo10_WPF\PruebaGrupo10_WPF\obj\x86\Debug\PruebaGrupo10_WPF_MarkupCompile.cache
+C:\Users\SESA256674\Desktop\PC Trabajo\Pruebas\PruebaGrupo10_WPF\PruebaGrupo10_WPF\obj\x86\Debug\PruebaGrupo10_WPF.Properties.Resources.resources
+C:\Users\SESA256674\Desktop\PC Trabajo\Pruebas\PruebaGrupo10_WPF\PruebaGrupo10_WPF\obj\x86\Debug\PruebaGrupo10_WPF.csproj.GenerateResource.Cache
+C:\Users\SESA256674\Desktop\PC Trabajo\Pruebas\PruebaGrupo10_WPF\PruebaGrupo10_WPF\obj\x86\Debug\PruebaGrupo10_WPF.exe
+C:\Users\SESA256674\Desktop\PC Trabajo\Pruebas\PruebaGrupo10_WPF\PruebaGrupo10_WPF\obj\x86\Debug\PruebaGrupo10_WPF.pdb
+C:\Users\SESA256674\Desktop\PC Trabajo\Pruebas\PruebaGrupo10_WPF\PruebaGrupo10_WPF\obj\x86\Debug\PruebaGrupo10_WPF.g.resources
+C:\Users\SESA256674\Desktop\PC Trabajo\Pruebas\PruebaGrupo10_WPF\PruebaGrupo10_WPF\obj\x86\Debug\Windows\MainWindow.baml
+C:\Users\SESA256674\Desktop\PC Trabajo\Pruebas\PruebaGrupo10_WPF\PruebaGrupo10_WPF\obj\x86\Debug\Windows\MainWindow.g.cs
+C:\Users\SESA256674\Desktop\PC Trabajo\Pruebas\PruebaGrupo10_WPF\PruebaGrupo10_WPF\bin\Debug\PruebaGrupo10_WPF.exe.config
+D:\Pruebas\PruebaGrupo10_WPF\PruebaGrupo10_WPF\bin\Debug\PruebaGrupo10_WPF.exe.config
+D:\Pruebas\PruebaGrupo10_WPF\PruebaGrupo10_WPF\obj\x86\Debug\PruebaGrupo10_WPF.exe
+D:\Pruebas\PruebaGrupo10_WPF\PruebaGrupo10_WPF\obj\x86\Debug\PruebaGrupo10_WPF.pdb
+D:\Pruebas\PruebaGrupo10_WPF\PruebaGrupo10_WPF\bin\Debug\PruebaGrupo10_WPF.exe
+D:\Pruebas\PruebaGrupo10_WPF\PruebaGrupo10_WPF\bin\Debug\PruebaGrupo10_WPF.pdb
+D:\Pruebas\PruebaGrupo10_WPF\PruebaGrupo10_WPF\obj\x86\Debug\PruebaGrupo10_WPF.csprojResolveAssemblyReference.cache
+D:\Pruebas\PruebaGrupo10_WPF\PruebaGrupo10_WPF\obj\x86\Debug\Windows\MainWindow.baml
+D:\Pruebas\PruebaGrupo10_WPF\PruebaGrupo10_WPF\obj\x86\Debug\Windows\MainWindow.g.cs
+D:\Pruebas\PruebaGrupo10_WPF\PruebaGrupo10_WPF\obj\x86\Debug\App.g.cs
+D:\Pruebas\PruebaGrupo10_WPF\PruebaGrupo10_WPF\obj\x86\Debug\PruebaGrupo10_WPF_MarkupCompile.cache
+D:\Pruebas\PruebaGrupo10_WPF\PruebaGrupo10_WPF\obj\x86\Debug\PruebaGrupo10_WPF.g.resources
+D:\Pruebas\PruebaGrupo10_WPF\PruebaGrupo10_WPF\obj\x86\Debug\PruebaGrupo10_WPF.Properties.Resources.resources
+D:\Pruebas\PruebaGrupo10_WPF\PruebaGrupo10_WPF\obj\x86\Debug\PruebaGrupo10_WPF.csproj.GenerateResource.Cache

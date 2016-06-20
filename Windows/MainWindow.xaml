@@ -1,0 +1,26 @@
+﻿<Window x:Class="PruebaGrupo10_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Concesionario" Height="550" Width="725" ResizeMode="NoResize">
+    <Grid>
+        <ComboBox Height="23" HorizontalAlignment="Left" Margin="280,35,0,0" Name="cbTipos" VerticalAlignment="Top" Width="120" SelectionChanged="cbTipos_SelectionChanged" />
+        <ListBox Height="100" HorizontalAlignment="Left" Margin="235,89,0,0" Name="mListbox" VerticalAlignment="Top" Width="120" />
+        <ListView Height="100" HorizontalAlignment="Left" Margin="380,89,0,0" Name="mListView" VerticalAlignment="Top" Width="120" />
+        <DataGrid AutoGenerateColumns="True" Height="121" HorizontalAlignment="Left" Margin="28,218,0,0" Name="dataGrid2" VerticalAlignment="Top" Width="658" CanUserAddRows="True" SelectedCellsChanged="dataGrid2_SelectedCellsChanged"/>
+        <Label Content="Tipo:" Height="28" HorizontalAlignment="Left" Margin="228,30,0,0" Name="label2" VerticalAlignment="Top" />
+        <Label Content="Modelos" Height="28" HorizontalAlignment="Left" Margin="31,190,0,0" Name="label3" VerticalAlignment="Top" />
+        <Label Content="ListBox" Height="28" HorizontalAlignment="Left" Margin="235,63,0,0" Name="label4" VerticalAlignment="Top" />
+        <Label Content="ListView" Height="28" HorizontalAlignment="Left" Margin="380,61,0,0" Name="label5" VerticalAlignment="Top" />
+        <Grid HorizontalAlignment="Left" Height="132" Margin="28,361,0,0" VerticalAlignment="Top" Width="655">
+            <TextBox x:Name="txtMarca" HorizontalAlignment="Left" Height="23" Margin="212,13,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" MaxLines="10"/>
+            <Label Content="Marca" HorizontalAlignment="Left" Margin="141,10,0,0" VerticalAlignment="Top" AllowDrop="True"/>
+            <Label Content="Descripcion" HorizontalAlignment="Left" Margin="140,56,0,0" VerticalAlignment="Top"/>
+            <TextBox x:Name="txtDesc" HorizontalAlignment="Left" Height="60" Margin="212,62,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="433"/>
+            <CheckBox x:Name="chEdicion" Content="Modo Edición " HorizontalAlignment="Left" Margin="17,16,0,0" VerticalAlignment="Top" Tag="Seleccione un modelo en el grid para editar" Checked="CheckBox_Checked_1" Unchecked="chEdicion_Unchecked"/>
+            <Button x:Name="botonInsertar" Content="Insertar" HorizontalAlignment="Left" Margin="11,57,0,0" VerticalAlignment="Top" Width="108" Height="54" Click="Button_Click_2"/>
+            <Label Content="Ruta Imagen" HorizontalAlignment="Left" Margin="339,12,0,0" VerticalAlignment="Top"/>
+            <TextBox x:Name="txtRuta" HorizontalAlignment="Left" Height="23" Margin="421,12,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="184" RenderTransformOrigin="0.505,0.435"/>
+            <Button x:Name="botonFichero" Content=". . ." HorizontalAlignment="Left" Margin="615,12,0,0" VerticalAlignment="Top" Width="25" Click="Button_Click_1"/>
+        </Grid>
+    </Grid>
+</Window>

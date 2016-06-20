@@ -1,0 +1,6 @@
+D:\Pruebas\PruebaGrupo10_WPF\PruebaGrupo10_WPF\bin\Debug\PruebaGrupo10_WPF.exe.config
+D:\Pruebas\PruebaGrupo10_WPF\PruebaGrupo10_WPF\obj\x86\Debug\PruebaGrupo10_WPF.exe
+D:\Pruebas\PruebaGrupo10_WPF\PruebaGrupo10_WPF\obj\x86\Debug\PruebaGrupo10_WPF.pdb
+C:\Users\SESA256674\Downloads\PruebaGrupo10_WPF\PruebaGrupo10_WPF\PruebaGrupo10_WPF\bin\Debug\PruebaGrupo10_WPF.exe.config
+C:\Users\SESA256674\Downloads\PruebaGrupo10_WPF\PruebaGrupo10_WPF\PruebaGrupo10_WPF\obj\x86\Debug\PruebaGrupo10_WPF.exe
+C:\Users\SESA256674\Downloads\PruebaGrupo10_WPF\PruebaGrupo10_WPF\PruebaGrupo10_WPF\obj\x86\Debug\PruebaGrupo10_WPF.pdb
